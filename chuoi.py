@@ -47,3 +47,5 @@ print(name.replace('3', 'e'))
 Hung ngu vcl
 
 May van ngu lắm trường ạ
+
+tao ngu keme t chu
